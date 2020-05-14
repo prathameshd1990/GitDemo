@@ -8,7 +8,7 @@ public class SeleniumTest {
 	public void browserAutomation() {
 		System.out.println("browserAutomation running");
 		System.out.println("Hello Selenium");
-
+		System.out.println("Safari/Mozilla/Chrome");
 	}
 	@Test
 	public void elementsUI() {

@@ -8,6 +8,7 @@ public class RestAPITest {
 	public void postJira() {
 		System.out.println("postJira running");
 		System.out.println("Hello RestAPI");
+		System.out.println("Latest servers");
 
 	}
 	@Test
