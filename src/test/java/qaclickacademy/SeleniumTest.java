@@ -22,5 +22,12 @@ public class SeleniumTest {
 		System.out.println("Download Section");
 		System.out.println("Chrome Apps");
 	}
+	@Test
+	public void radioButtonUI() {
+		System.out.println("radioButtonUI running");
+		System.out.println("Download Section");
+		System.out.println("Chrome Apps");
+	}
+	
 	
 }

@@ -13,12 +13,16 @@ public class RestAPITest {
 	}
 	@Test
 	public void deleteTwitter() {
-		System.out.println("deleteTwitter running");
+		System.out.println("Twitter Server");
 		
 	}
 	@Test
 	public void deleteInstagram() {
 		System.out.println("Instagram Server");
+	}
+	@Test
+	public void deleteFacebook() {
+		System.out.println("Facebook Server");
 	}
 	
 }
